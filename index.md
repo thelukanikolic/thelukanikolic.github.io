@@ -10,16 +10,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero-bg.jpg
-  caption: "Photo by [Your Photographer Name or Source]"
-  actions:
-    - label: "View Projects"
-      url: /projects/
-    - label: "Read Blog"
-      url: /blog/
-    - label: "About Me"
-      url: /about/
-intro: 
   - excerpt: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
+intro: 
 feature_row:
   - image_path: /assets/images/about.png
     alt: "About me"
