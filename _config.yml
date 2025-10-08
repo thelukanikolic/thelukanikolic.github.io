@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Luka Nikolic"
   avatar : "/assets/images/profilePic.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "🎓 Student at Stockholm University<br>💻 Learning networking, security, and programming/scripting<br>⚙️ Passionate about Cybersecurity & Technology"
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
