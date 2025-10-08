@@ -10,8 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero-bg.jpg
-  - excerpt: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
-intro: 
+  caption: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
 feature_row:
   - image_path: /assets/images/about.png
     alt: "About me"
@@ -35,7 +34,5 @@ feature_row:
     btn_label: "Read blog"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
