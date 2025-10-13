@@ -9,4 +9,7 @@
   min-height: 60vh !important;  
   background-size: cover !important;
   background-position: center !important;
+
+  // Aesthetic filter
+  filter: grayscale(40%) brightness(1.1) contrast(1.05);
 }
