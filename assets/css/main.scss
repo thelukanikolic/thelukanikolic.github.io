@@ -5,6 +5,15 @@
 @import "minimal-mistakes"; 
 
 /* --- Custom Overrides Below --- */
-.page__hero {
-  min-height: 500px; 
+.header-hero {
+  height: 600px;
+  min-height: 100vh; 
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  background-size: cover; 
+  background-position: center; 
+}
+.header-hero .caption {
+  font-size: 1.5rem;
 }
