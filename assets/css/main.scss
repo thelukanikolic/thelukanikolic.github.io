@@ -1,19 +1,12 @@
 ---
-# Only the Sass file needs front matter (the --- lines)
+# Only the dashes, no layout or title
 ---
 
-@import "minimal-mistakes"; 
+@import "minimal-mistakes";
 
-/* --- Custom Overrides Below --- */
-.header-hero {
-  height: 600px;
-  min-height: 100vh; 
-  display: flex;
-  align-items: center; 
-  justify-content: center; 
-  background-size: cover; 
-  background-position: center; 
-}
-.header-hero .caption {
-  font-size: 1.5rem;
+.page__hero,
+.page__hero--overlay {
+  min-height: 60vh !important;  
+  background-size: cover !important;
+  background-position: center !important;
 }
