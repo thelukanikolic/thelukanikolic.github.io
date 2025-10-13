@@ -9,6 +9,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  min_height: 60vh
   overlay_image: /assets/images/banner.jpg
   caption: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
 feature_row:
