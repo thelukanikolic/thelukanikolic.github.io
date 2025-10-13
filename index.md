@@ -10,7 +10,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-  overlay_filter: rgba(200,200,200,0.5)
   caption: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
 feature_row:
   - image_path: /assets/images/about.png
