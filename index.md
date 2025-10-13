@@ -9,7 +9,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/hero-bg.jpg
+  overlay_image: /assets/images/banner.jpg
   caption: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
 feature_row:
   - image_path: /assets/images/about.png
