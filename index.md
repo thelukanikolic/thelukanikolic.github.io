@@ -8,7 +8,7 @@ subtitle: "Computer Science Student Focused on Cybersecurity & Networking"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
   caption: "Welcome to my personal portfolio — where I share my journey in cybersecurity, networking, and technology."
 feature_row:
